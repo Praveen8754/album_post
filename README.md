@@ -1,6 +1,6 @@
 # album_post
 
-This Flutter application retrieves and displays albums and posts for a user. The app is compatible with both iOS and Android platforms.
+This Flutter application retrieves and displays albums and posts for a user. 
 
 ## Features
 
