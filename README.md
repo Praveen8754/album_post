@@ -1,6 +1,15 @@
-# inte
+# album_post
 
-A new Flutter project.
+This Flutter application retrieves and displays albums and posts for a user. 
+
+## Features
+
+- Display user profile with an option to upload a photo.
+- Fetch and display albums in a grid view.
+- Fetch and display posts in a list view.
+- Fetch and display comments for each post.
+- Fetch and display user location.
+
 
 ## Getting Started
 
